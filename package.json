@@ -1,0 +1,23 @@
+{
+  "name": "my-halogen-sample",
+  "version": "1.0.0",
+  "description": "halogen sample",
+  "main": "index.js",
+  "dependencies": {
+    "halogen": "^0.1.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/shigemk2/my-halogen-sample.git"
+  },
+  "author": "shigemk2",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shigemk2/my-halogen-sample/issues"
+  },
+  "homepage": "https://github.com/shigemk2/my-halogen-sample#readme"
+}
