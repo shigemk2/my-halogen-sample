@@ -4,7 +4,10 @@
   "description": "halogen sample",
   "main": "index.js",
   "dependencies": {
-    "halogen": "^0.1.10"
+    "browserify": "^13.0.0",
+    "halogen": "^0.1.10",
+    "react": "^0.14.7",
+    "reactify": "^1.1.1"
   },
   "devDependencies": {},
   "scripts": {
