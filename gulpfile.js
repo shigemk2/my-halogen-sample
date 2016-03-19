@@ -12,3 +12,7 @@ gulp.task('browserify', function(){
     .pipe(source('example.js'))
     .pipe(gulp.dest('./dist'));
 });
+
+gulp.task('default', function() {
+  gulp.start(['browserify']);
+});
