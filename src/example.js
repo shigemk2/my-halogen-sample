@@ -1,5 +1,5 @@
 var React = require('react');
-var Loader = require('halogen/PulseLoader');
+var Loader = require('halogen/RiseLoader');
 var Example = React.createClass({
   render: function() {
     return (
