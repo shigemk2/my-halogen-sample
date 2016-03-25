@@ -2,6 +2,8 @@
 
 halogen
 
+ぐるぐる廻るやつ。Reactモジュール。
+
 http://madscript.com/halogen/
 
 ```sh
